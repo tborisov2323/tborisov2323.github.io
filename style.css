@@ -8,16 +8,20 @@ font-size: 35px;
  .new-font {
 font-family: Comic Sans MS;
   font-size: 20px;
- 	color: rgb(17, 221, 0);
+ 	color: rgb(247, 106, 55);
  }
- p {
- 	font-family: 'Arvo', serif; 
-	color: gold;
-}
+
  .smaller-text {
  font-size: 13px;
- font-weight: bolder;
+ font-weight: bolder
+ color:rgb(75, 194, 223);
  }
+
+ p {
+ 	font-family: 'Arvo', serif; 
+	color: rgb(0, 255, 0);
+}
+
  .bigger-text {
  font-size: 25px;
  font-family: Trebuchet MS;
@@ -28,4 +32,9 @@ font-family: Comic Sans MS;
  	font-size: 15px;
  	font-family: Trebuchet MS;
 
+ }
+ .copyright {
+ 	font-size: 13px;
+ 	font-weight: bolder;
+ 	color: rgb(75, 194, 223);
  }
