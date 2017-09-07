@@ -1,5 +1,5 @@
 .background {
-  background: black;
+  background-color: black;
 }
  .red-text {
 color: red;
@@ -8,16 +8,24 @@ font-size: 35px;
  .new-font {
 font-family: Comic Sans MS;
   font-size: 20px;
-  color: white;
+ 	color: rgb(17, 221, 0);
  }
  p {
-color: gold;
+ 	font-family: 'Arvo', serif; 
+	color: gold;
 }
  .smaller-text {
- font-size: 11px;
+ font-size: 13px;
+ font-weight: bolder;
  }
  .bigger-text {
  font-size: 25px;
  font-family: Trebuchet MS;
  color: yellow;
+ }
+ .links {
+ 	color: orange;
+ 	font-size: 15px;
+ 	font-family: Trebuchet MS;
+
  }
