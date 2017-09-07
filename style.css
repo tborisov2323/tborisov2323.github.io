@@ -1,1 +1,23 @@
-
+.background {
+  background: black;
+}
+ .red-text {
+color: red;
+font-size: 35px;
+}
+ .new-font {
+font-family: Comic Sans MS;
+  font-size: 20px;
+  color: white;
+ }
+ p {
+color: gold;
+}
+ .smaller-text {
+ font-size: 11px;
+ }
+ .bigger-text {
+ font-size: 25px;
+ font-family: Trebuchet MS;
+ color: yellow;
+ }
