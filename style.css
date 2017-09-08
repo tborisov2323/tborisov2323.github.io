@@ -4,6 +4,7 @@
  .red-text {
 color: red;
 font-size: 35px;
+line-height: .75em;
 }
  .new-font {
 font-family: Comic Sans MS;
