@@ -19,8 +19,9 @@ font-family: Comic Sans MS;
  }
 
  p {
- 	font-family: 'Arvo', serif; 
+ 	font-family: Monospace ; 
 	color: rgb(0, 255, 0);
+	font-size: 16 px;
 }
 
  .bigger-text {
